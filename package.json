@@ -1,0 +1,25 @@
+{
+  "name": "react-native-textstroke",
+  "version": "1.0.0",
+  "description": "React-Native-TextStroke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvinfosys/React-Native-TextStroke.git"
+  },
+  "keywords": [
+    "React-Native-TextStroke",
+    "TextStroke",
+    "React-Native",
+    "Stroke"
+  ],
+  "author": "dvinfosys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvinfosys/React-Native-TextStroke/issues"
+  },
+  "homepage": "https://github.com/dvinfosys/React-Native-TextStroke#readme"
+}
